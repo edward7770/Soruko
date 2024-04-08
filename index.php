@@ -802,7 +802,6 @@ if (isset($_SESSION['errors']) && !empty($_SESSION['errors'])) {
     </div>
 
 
-    <!-- Scroll To Top -->
     <?php include 'components/scrolltotop.php'; ?>
     <!-- Scroll To Top -->
 
